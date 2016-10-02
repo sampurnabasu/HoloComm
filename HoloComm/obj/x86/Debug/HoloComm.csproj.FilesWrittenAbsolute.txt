@@ -1,0 +1,9 @@
+/Users/sampurna/Development/HoloComm/HoloComm/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/sampurna/Development/HoloComm/HoloComm/bin/Debug/Newtonsoft.Json.dll
+/Users/sampurna/Development/HoloComm/HoloComm/bin/Debug/Microsoft.ProjectOxford.Vision.dll
+/Users/sampurna/Development/HoloComm/HoloComm/bin/Debug/System.Net.Http.Extensions.dll
+/Users/sampurna/Development/HoloComm/HoloComm/bin/Debug/System.Net.Http.Primitives.dll
+/Users/sampurna/Development/HoloComm/HoloComm/bin/Debug/HoloComm.exe.mdb
+/Users/sampurna/Development/HoloComm/HoloComm/bin/Debug/HoloComm.exe
+/Users/sampurna/Development/HoloComm/HoloComm/obj/x86/Debug/HoloComm.exe
+/Users/sampurna/Development/HoloComm/HoloComm/obj/x86/Debug/HoloComm.exe.mdb

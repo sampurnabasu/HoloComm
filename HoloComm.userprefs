@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FD76EDFE-40D9-4904-8C44-2B5F213A2623}|Default">
+  <MonoDevelop.Ide.ItemProperties.HoloComm PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HoloComm/Program.cs">
+    <Files>
+      <File FileName="HoloComm/Program.cs" Line="11" Column="2" />
+      <File FileName="HoloComm/SparkPostClass.cs" Line="22" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
